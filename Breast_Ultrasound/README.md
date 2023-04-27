@@ -1,6 +1,7 @@
 # Breast_Ultrasound 
-⭐ kaggle의 Most Votes의 Beating everything with Depthwise Convolution를 필사한 내용입니다.
+⭐ kaggle의 링크의 유튜브 영상에서 Breast_Ultrasound 데이터를 필사한 내용입니다.
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+https://youtu.be/eOFtmogYKek
 ## About Dataset 
 - 기준 시점에 수집된 데이터에는 25세에서 75세 사이의 여성의 유방 초음파 이미지가 포함됩니다. 
 - 이 데이터는 2018년에 수집되었습니다. 
