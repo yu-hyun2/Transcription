@@ -1,6 +1,6 @@
 # 🔵 Chest X-Ray Images (Pneumonia)
 ⭐ kaggle의 Most Votes의 **Beating everything with Depthwise Convolution**를 필사한 내용입니다.
-* https://www.kaggle.com/code/aakashnain/beating-everything-with-depthwise-convolution
+* [Kaggle Link](https://www.kaggle.com/code/aakashnain/beating-everything-with-depthwise-convolution)
 
 ## About Dataset
 - 데이터 세트는 3개의 폴더(train, test, val)로 구성되어 있으며 각 이미지 카테고리(폐렴/정상)에 대한 하위 폴더가 포함되어 있습니다.
