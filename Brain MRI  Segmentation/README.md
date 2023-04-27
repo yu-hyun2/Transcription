@@ -1,5 +1,5 @@
 # Brain MRI segmentation
-https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+[Kaggle Link](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 
 ### About Dataset
 LGG Segmentation Dataset
