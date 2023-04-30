@@ -1,4 +1,4 @@
-# Brain MRI segmentation
+# 🧠Brain MRI segmentation
 [Kaggle Link](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 
 [UNet 필사 원본 링크](https://www.kaggle.com/code/tejasurya/unet-from-scratch-segmentation-tumour/notebook)
@@ -20,7 +20,7 @@ Tumor genomic clusters and patient data is provided in data.csv file.
 
 
 
-### 데이터 세트 정보
+### 📊데이터 세트 정보
 LGG 세분화 데이터 세트
 
 
@@ -29,6 +29,8 @@ LGG 세분화 데이터 세트
 - 이 데이터는 암 게놈 아틀라스(TCGA)의 저등급 신경교종 컬렉션에 포함된 110명의 환자에 해당하며, 최소 유체 감쇠 반전 복구(FLAIR) 서열 및 게놈 클러스터 데이터를 사용할 수 있습니다.
 - 종양 게놈 클러스터와 환자 데이터는 data.csv 파일로 제공됩니다.
 
+### ✅Feature
+  
 - Patient: 환자 ID
 - RNASeqCluster: RNA 시퀀싱 데이터 기반 군집화(cluster) 정보
 - MethylationCluster: DNA 메틸레이션 데이터 기반 군집화 정보
